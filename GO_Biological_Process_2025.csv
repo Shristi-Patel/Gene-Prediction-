@@ -56876,12 +56876,12 @@ Negative Regulation of Acute Inflammatory Response,GO:0002674,SELENOS
 Negative Regulation of Acute Inflammatory Response,GO:0002674,GSTP1
 Negative Regulation of Acute Inflammatory Response,GO:0002674,NLRP3
 Negative Regulation of Acute Inflammatory Response,GO:0002674,INS
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,XCL1
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,RC3H1
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,FOXJ1
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,HAVCR2
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,LGALS9
-- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002823,SMAD7
+#NAME?,GO:0002823,XCL1
+#NAME?,GO:0002823,RC3H1
+#NAME?,GO:0002823,FOXJ1
+#NAME?,GO:0002823,HAVCR2
+#NAME?,GO:0002823,LGALS9
+#NAME?,GO:0002823,SMAD7
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,CCR2
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,GRM3
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,EDNRB
@@ -56893,16 +56893,16 @@ Negative Regulation of Adenylate Cyclase Activity,GO:0007194,AKAP5
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,GNAI2
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,GRM2
 Negative Regulation of Adenylate Cyclase Activity,GO:0007194,GNAI3
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,CRTC3
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,MGRN1
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,MRAP
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,PDE4D
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,PDE2A
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,PDE3B
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,ATP2B4
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,PDE3A
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,PDE4B
-- Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106072,MRAP2
+#NAME?,GO:0106072,CRTC3
+#NAME?,GO:0106072,MGRN1
+#NAME?,GO:0106072,MRAP
+#NAME?,GO:0106072,PDE4D
+#NAME?,GO:0106072,PDE2A
+#NAME?,GO:0106072,PDE3B
+#NAME?,GO:0106072,ATP2B4
+#NAME?,GO:0106072,PDE3A
+#NAME?,GO:0106072,PDE4B
+#NAME?,GO:0106072,MRAP2
 Negative Regulation of Alcohol Biosynthetic Process,GO:1902931,PLEK
 Negative Regulation of Alcohol Biosynthetic Process,GO:1902931,GFI1
 Negative Regulation of Alcohol Biosynthetic Process,GO:1902931,INSIG1
@@ -58073,12 +58073,12 @@ Negative Regulation of Blood Vessel Endothelial Cell Migration,GO:0043537,MECP2
 Negative Regulation of Blood Vessel Endothelial Cell Migration,GO:0043537,PDCD10
 Negative Regulation of Blood Vessel Endothelial Cell Migration,GO:0043537,TBXA2R
 Negative Regulation of Blood Vessel Endothelial Cell Migration,GO:0043537,APOE
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,NGFR
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,PDCD10
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,MMRN2
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,IL12B
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,THBS1
-- Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903588,IL12A
+#NAME?,GO:1903588,NGFR
+#NAME?,GO:1903588,PDCD10
+#NAME?,GO:1903588,MMRN2
+#NAME?,GO:1903588,IL12B
+#NAME?,GO:1903588,THBS1
+#NAME?,GO:1903588,IL12A
 Negative Regulation of Blood Vessel Morphogenesis,GO:2000181,CCR2
 Negative Regulation of Blood Vessel Morphogenesis,GO:2000181,SPINK5
 Negative Regulation of Blood Vessel Morphogenesis,GO:2000181,ANGPT4
@@ -62150,21 +62150,21 @@ Negative Regulation of Endopeptidase Activity,GO:0010951,FETUB
 Negative Regulation of Endopeptidase Activity,GO:0010951,TIMP1
 Negative Regulation of Endopeptidase Activity,GO:0010951,RECK
 Negative Regulation of Endopeptidase Activity,GO:0010951,GAPDH
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,PTPN1
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,PRKN
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,XBP1
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,LRRK2
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,SYVN1
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,TXNDC12
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,PARK7
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,HERPUD1
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,CREB3L1
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,MED12
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,CREB3L4
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,SELENOS
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,HSPA1A
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,MAGEA3
-- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902236,TMBIM6
+#NAME?,GO:1902236,PTPN1
+#NAME?,GO:1902236,PRKN
+#NAME?,GO:1902236,XBP1
+#NAME?,GO:1902236,LRRK2
+#NAME?,GO:1902236,SYVN1
+#NAME?,GO:1902236,TXNDC12
+#NAME?,GO:1902236,PARK7
+#NAME?,GO:1902236,HERPUD1
+#NAME?,GO:1902236,CREB3L1
+#NAME?,GO:1902236,MED12
+#NAME?,GO:1902236,CREB3L4
+#NAME?,GO:1902236,SELENOS
+#NAME?,GO:1902236,HSPA1A
+#NAME?,GO:1902236,MAGEA3
+#NAME?,GO:1902236,TMBIM6
 Negative Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900102,PPP1R15B
 Negative Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900102,PTPN1
 Negative Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900102,XBP1
@@ -64674,18 +64674,18 @@ Negative Regulation of Intrinsic Apoptotic Signaling Pathway in Response to DNA 
 Negative Regulation of Intrinsic Apoptotic Signaling Pathway in Response to DNA Damage,GO:1902230,MARCHF7
 Negative Regulation of Intrinsic Apoptotic Signaling Pathway in Response to DNA Damage,GO:1902230,TAF9B
 Negative Regulation of Intrinsic Apoptotic Signaling Pathway in Response to DNA Damage,GO:1902230,ZNF385A
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,MUC1
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,CD74
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,ING3
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,KDM1A
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,TAF9
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,TRIAP1
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,SIRT1
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,MARCHF7
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,S100A9
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,CD44
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,TAF9B
-- Reg of Intrinsic Apoptotic Sgnlng Pway in Resp to DNA Damage by P53 Cls Mediator,GO:1902166,ZNF385A
+#NAME?,GO:1902166,MUC1
+#NAME?,GO:1902166,CD74
+#NAME?,GO:1902166,ING3
+#NAME?,GO:1902166,KDM1A
+#NAME?,GO:1902166,TAF9
+#NAME?,GO:1902166,TRIAP1
+#NAME?,GO:1902166,SIRT1
+#NAME?,GO:1902166,MARCHF7
+#NAME?,GO:1902166,S100A9
+#NAME?,GO:1902166,CD44
+#NAME?,GO:1902166,TAF9B
+#NAME?,GO:1902166,ZNF385A
 Negative Regulation of Ion Transmembrane Transporter Activity,GO:0032413,CAMK2D
 Negative Regulation of Ion Transmembrane Transporter Activity,GO:0032413,TCAF2
 Negative Regulation of Ion Transmembrane Transporter Activity,GO:0032413,CAB39
@@ -65746,17 +65746,17 @@ Negative Regulation of Mitochondrial Membrane Potential,GO:0010917,PIP5KL1
 Negative Regulation of Mitochondrial Membrane Potential,GO:0010917,BAX
 Negative Regulation of Mitochondrial Membrane Potential,GO:0010917,PMAIP1
 Negative Regulation of Mitochondrial Membrane Potential,GO:0010917,RNF122
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,SLC25A4
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,MPV17L
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,SLC35F6
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,BCL2L1
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,HSPA1A
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,SLC25A31
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,FZD9
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,BAK1
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,SLC25A6
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,TMEM14A
-- Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901029,SLC25A5
+#NAME?,GO:1901029,SLC25A4
+#NAME?,GO:1901029,MPV17L
+#NAME?,GO:1901029,SLC35F6
+#NAME?,GO:1901029,BCL2L1
+#NAME?,GO:1901029,HSPA1A
+#NAME?,GO:1901029,SLC25A31
+#NAME?,GO:1901029,FZD9
+#NAME?,GO:1901029,BAK1
+#NAME?,GO:1901029,SLC25A6
+#NAME?,GO:1901029,TMEM14A
+#NAME?,GO:1901029,SLC25A5
 Negative Regulation of Mitophagy,GO:1901525,PINK1
 Negative Regulation of Mitophagy,GO:1901525,VPS13C
 Negative Regulation of Mitophagy,GO:1901525,TSC2
@@ -66631,23 +66631,23 @@ Negative Regulation of Nuclear Receptor-Mediated Glucocorticoid Signaling Pathwa
 Negative Regulation of Nuclear Receptor-Mediated Glucocorticoid Signaling Pathway,GO:2000323,CRY2
 Negative Regulation of Nuclear Receptor-Mediated Glucocorticoid Signaling Pathway,GO:2000323,CRY1
 Negative Regulation of Nuclear Receptor-Mediated Glucocorticoid Signaling Pathway,GO:2000323,CLOCK
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,SYNCRIP
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,DHX9
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,HNRNPU
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,YBX1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,IGF2BP1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,PABPC1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,HNRNPD
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,TENT4A
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,TENT4B
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,PAIP1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900152,TOB1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,APOBEC1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,NBAS
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,SYNCRIP
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,DHX34
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,PABPC1
-"- Reg of Nuclear-Transcribed mRNA Cat Proc, Nonsense-Mediated Decay",GO:2000623,HNRNPAB
+#NAME?,GO:1900152,SYNCRIP
+#NAME?,GO:1900152,DHX9
+#NAME?,GO:1900152,HNRNPU
+#NAME?,GO:1900152,YBX1
+#NAME?,GO:1900152,IGF2BP1
+#NAME?,GO:1900152,PABPC1
+#NAME?,GO:1900152,HNRNPD
+#NAME?,GO:1900152,TENT4A
+#NAME?,GO:1900152,TENT4B
+#NAME?,GO:1900152,PAIP1
+#NAME?,GO:1900152,TOB1
+#NAME?,GO:2000623,APOBEC1
+#NAME?,GO:2000623,NBAS
+#NAME?,GO:2000623,SYNCRIP
+#NAME?,GO:2000623,DHX34
+#NAME?,GO:2000623,PABPC1
+#NAME?,GO:2000623,HNRNPAB
 Negative Regulation of Nucleobase-Containing Compound Metabolic Process,GO:0045934,GSK3A
 Negative Regulation of Nucleobase-Containing Compound Metabolic Process,GO:0045934,SUB1
 Negative Regulation of Nucleobase-Containing Compound Metabolic Process,GO:0045934,PGK1
@@ -66887,14 +66887,14 @@ Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pa
 Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway,GO:1902176,MAPK7
 Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway,GO:1902176,ATF4
 Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway,GO:1902176,NFE2L2
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,PRKN
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,PINK1
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,NONO
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,PYCR1
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,FBXO7
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,PARK7
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,HIF1A
-- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,GO:1903377,ATF4
+#NAME?,GO:1903377,PRKN
+#NAME?,GO:1903377,PINK1
+#NAME?,GO:1903377,NONO
+#NAME?,GO:1903377,PYCR1
+#NAME?,GO:1903377,FBXO7
+#NAME?,GO:1903377,PARK7
+#NAME?,GO:1903377,HIF1A
+#NAME?,GO:1903377,ATF4
 Negative Regulation of Oxidoreductase Activity,GO:0051354,OXA1L
 Negative Regulation of Oxidoreductase Activity,GO:0051354,NT5DC2
 Negative Regulation of Oxidoreductase Activity,GO:0051354,PRKN
@@ -69797,15 +69797,15 @@ Negative Regulation of Signaling Receptor Activity,GO:2000272,ZFYVE28
 Negative Regulation of Signaling Receptor Activity,GO:2000272,VPS25
 Negative Regulation of Signaling Receptor Activity,GO:2000272,SNX6
 Negative Regulation of Signaling Receptor Activity,GO:2000272,SOCS5
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3D
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3F
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3G
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3H
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3A_B
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,HMGA2
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,INPP5K
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3B
-- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate,GO:0045869,APOBEC3C
+#NAME?,GO:0045869,APOBEC3D
+#NAME?,GO:0045869,APOBEC3F
+#NAME?,GO:0045869,APOBEC3G
+#NAME?,GO:0045869,APOBEC3H
+#NAME?,GO:0045869,APOBEC3A_B
+#NAME?,GO:0045869,HMGA2
+#NAME?,GO:0045869,INPP5K
+#NAME?,GO:0045869,APOBEC3B
+#NAME?,GO:0045869,APOBEC3C
 Negative Regulation of Skeletal Muscle Cell Differentiation,GO:2001015,MYOCD
 Negative Regulation of Skeletal Muscle Cell Differentiation,GO:2001015,SIX4
 Negative Regulation of Skeletal Muscle Cell Differentiation,GO:2001015,EPHB1
@@ -71375,128 +71375,128 @@ Negative Regulation of Translational Initiation,GO:0045947,EIF4E2
 Negative Regulation of Translational Initiation,GO:0045947,PAIP2B
 Negative Regulation of Translational Initiation,GO:0045947,ZNF598
 Negative Regulation of Translational Initiation,GO:0045947,PAIP2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,GDF15
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CIDEA
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CRIM1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,DKK1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HIPK2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,DKK3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SAP30
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,EID2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SKI
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,BAMBI
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HSPA1A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,DAND5
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,MTMR4
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,LRP2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,UBE2D3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ARID4A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,UBE2D1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ARID4B
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PBLD
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CRKL
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SAP130
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,GPR155
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PEG10
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,RBBP4
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,NKX2-1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,RBBP7
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CCN3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CER1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ZBTB7A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,XBP1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,FST
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,GDF3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,OVOL2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SMAD7
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,IL17RD
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SMAD6
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,VASN
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPART
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,IGSF1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CDH15
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,INTS9
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,NOTCH1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,FAM89B
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HTRA4
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CHRD
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HTRA3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CHRDL1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,LDLRAD4
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ERFE
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CHRDL2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PDZD2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PMEPA1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,BCL9L
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,VWC2L
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SMURF2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SMURF1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CAV1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,TET1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SIRT1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,TGFBR3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,BMP2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SINHCAF
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,VEPH1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CILP
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,BRMS1L
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,OGT
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,DLX1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,WFIKKN2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,WFIKKN1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,TNFAIP6
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PRDM16
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,LRRC32
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,MECOM
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SUDS3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,EMILIN1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,WNT1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SKIL
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SNX6
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,MAGI2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SKOR1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SKOR2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PPARA
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,NOG
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PDPK1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,VWC2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SNX25
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SLC2A10
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SORL1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,LEMD3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PPM1A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ASPN
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,FKBP1A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ADAM17
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,GREM1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,C1D
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,CD109
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,FKBP1C
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,PPARG
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPRY2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPRY1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,STUB1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ENG
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SRFBP1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,TRIM33
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,USP15
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ZNF451
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HDAC1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,HDAC2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,TMEM53
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,FSTL3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ING1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,MICOS10-NBL1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ADAMTSL2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPRED3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,ING3
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPRED2
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SPRED1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SIN3A
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SAP30L
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SOSTDC1
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,SOST
-- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090101,RBPMS2
+#NAME?,GO:0090101,GDF15
+#NAME?,GO:0090101,CIDEA
+#NAME?,GO:0090101,CRIM1
+#NAME?,GO:0090101,DKK1
+#NAME?,GO:0090101,HIPK2
+#NAME?,GO:0090101,DKK3
+#NAME?,GO:0090101,SAP30
+#NAME?,GO:0090101,EID2
+#NAME?,GO:0090101,SKI
+#NAME?,GO:0090101,BAMBI
+#NAME?,GO:0090101,HSPA1A
+#NAME?,GO:0090101,DAND5
+#NAME?,GO:0090101,MTMR4
+#NAME?,GO:0090101,LRP2
+#NAME?,GO:0090101,UBE2D3
+#NAME?,GO:0090101,ARID4A
+#NAME?,GO:0090101,UBE2D1
+#NAME?,GO:0090101,ARID4B
+#NAME?,GO:0090101,PBLD
+#NAME?,GO:0090101,CRKL
+#NAME?,GO:0090101,SAP130
+#NAME?,GO:0090101,GPR155
+#NAME?,GO:0090101,PEG10
+#NAME?,GO:0090101,RBBP4
+#NAME?,GO:0090101,NKX2-1
+#NAME?,GO:0090101,RBBP7
+#NAME?,GO:0090101,CCN3
+#NAME?,GO:0090101,CER1
+#NAME?,GO:0090101,ZBTB7A
+#NAME?,GO:0090101,XBP1
+#NAME?,GO:0090101,FST
+#NAME?,GO:0090101,GDF3
+#NAME?,GO:0090101,OVOL2
+#NAME?,GO:0090101,SMAD7
+#NAME?,GO:0090101,IL17RD
+#NAME?,GO:0090101,SMAD6
+#NAME?,GO:0090101,VASN
+#NAME?,GO:0090101,SPART
+#NAME?,GO:0090101,IGSF1
+#NAME?,GO:0090101,CDH15
+#NAME?,GO:0090101,INTS9
+#NAME?,GO:0090101,NOTCH1
+#NAME?,GO:0090101,FAM89B
+#NAME?,GO:0090101,HTRA4
+#NAME?,GO:0090101,CHRD
+#NAME?,GO:0090101,HTRA3
+#NAME?,GO:0090101,CHRDL1
+#NAME?,GO:0090101,LDLRAD4
+#NAME?,GO:0090101,ERFE
+#NAME?,GO:0090101,CHRDL2
+#NAME?,GO:0090101,PDZD2
+#NAME?,GO:0090101,PMEPA1
+#NAME?,GO:0090101,BCL9L
+#NAME?,GO:0090101,VWC2L
+#NAME?,GO:0090101,SMURF2
+#NAME?,GO:0090101,SMURF1
+#NAME?,GO:0090101,CAV1
+#NAME?,GO:0090101,TET1
+#NAME?,GO:0090101,SIRT1
+#NAME?,GO:0090101,TGFBR3
+#NAME?,GO:0090101,BMP2
+#NAME?,GO:0090101,SINHCAF
+#NAME?,GO:0090101,VEPH1
+#NAME?,GO:0090101,CILP
+#NAME?,GO:0090101,BRMS1L
+#NAME?,GO:0090101,OGT
+#NAME?,GO:0090101,DLX1
+#NAME?,GO:0090101,WFIKKN2
+#NAME?,GO:0090101,WFIKKN1
+#NAME?,GO:0090101,TNFAIP6
+#NAME?,GO:0090101,PRDM16
+#NAME?,GO:0090101,LRRC32
+#NAME?,GO:0090101,MECOM
+#NAME?,GO:0090101,SUDS3
+#NAME?,GO:0090101,EMILIN1
+#NAME?,GO:0090101,WNT1
+#NAME?,GO:0090101,SKIL
+#NAME?,GO:0090101,SNX6
+#NAME?,GO:0090101,MAGI2
+#NAME?,GO:0090101,SKOR1
+#NAME?,GO:0090101,SKOR2
+#NAME?,GO:0090101,PPARA
+#NAME?,GO:0090101,NOG
+#NAME?,GO:0090101,PDPK1
+#NAME?,GO:0090101,VWC2
+#NAME?,GO:0090101,SNX25
+#NAME?,GO:0090101,SLC2A10
+#NAME?,GO:0090101,SORL1
+#NAME?,GO:0090101,LEMD3
+#NAME?,GO:0090101,PPM1A
+#NAME?,GO:0090101,ASPN
+#NAME?,GO:0090101,FKBP1A
+#NAME?,GO:0090101,ADAM17
+#NAME?,GO:0090101,GREM1
+#NAME?,GO:0090101,C1D
+#NAME?,GO:0090101,CD109
+#NAME?,GO:0090101,FKBP1C
+#NAME?,GO:0090101,PPARG
+#NAME?,GO:0090101,SPRY2
+#NAME?,GO:0090101,SPRY1
+#NAME?,GO:0090101,STUB1
+#NAME?,GO:0090101,ENG
+#NAME?,GO:0090101,SRFBP1
+#NAME?,GO:0090101,TRIM33
+#NAME?,GO:0090101,USP15
+#NAME?,GO:0090101,ZNF451
+#NAME?,GO:0090101,HDAC1
+#NAME?,GO:0090101,HDAC2
+#NAME?,GO:0090101,TMEM53
+#NAME?,GO:0090101,FSTL3
+#NAME?,GO:0090101,ING1
+#NAME?,GO:0090101,MICOS10-NBL1
+#NAME?,GO:0090101,ADAMTSL2
+#NAME?,GO:0090101,SPRED3
+#NAME?,GO:0090101,ING3
+#NAME?,GO:0090101,SPRED2
+#NAME?,GO:0090101,SPRED1
+#NAME?,GO:0090101,SIN3A
+#NAME?,GO:0090101,SAP30L
+#NAME?,GO:0090101,SOSTDC1
+#NAME?,GO:0090101,SOST
+#NAME?,GO:0090101,RBPMS2
 Negative Regulation of Transmembrane Transport,GO:0034763,RSC1A1
 Negative Regulation of Transmembrane Transport,GO:0034763,IL1B
 Negative Regulation of Transmembrane Transport,GO:0034763,IRS2
@@ -86655,20 +86655,20 @@ Positive Regulation of Adaptive Immune Response,GO:0002821,IL6ST
 Positive Regulation of Adaptive Immune Response,GO:0002821,SIRT1
 Positive Regulation of Adaptive Immune Response,GO:0002821,SKAP1
 Positive Regulation of Adaptive Immune Response,GO:0002821,SASH3
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,CCR2
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,IL23R
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,SLC11A1
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,ZBTB1
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,TYK2
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,IL1B
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,CLEC7A
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,IL23A
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,CLEC6A
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,NLRP10
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,IL12B
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,PRKCQ
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,IL12RB1
-+ Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains,GO:0002824,JAK2
+#NAME?,GO:0002824,CCR2
+#NAME?,GO:0002824,IL23R
+#NAME?,GO:0002824,SLC11A1
+#NAME?,GO:0002824,ZBTB1
+#NAME?,GO:0002824,TYK2
+#NAME?,GO:0002824,IL1B
+#NAME?,GO:0002824,CLEC7A
+#NAME?,GO:0002824,IL23A
+#NAME?,GO:0002824,CLEC6A
+#NAME?,GO:0002824,NLRP10
+#NAME?,GO:0002824,IL12B
+#NAME?,GO:0002824,PRKCQ
+#NAME?,GO:0002824,IL12RB1
+#NAME?,GO:0002824,JAK2
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,CAP1
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,CRHR1
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,LHCGR
@@ -86691,11 +86691,11 @@ Positive Regulation of Adenylate Cyclase Activity,GO:0045762,GNAS
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,DRD1
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,ORAI1
 Positive Regulation of Adenylate Cyclase Activity,GO:0045762,DRD5
-+ Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106071,POMC
-+ Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106071,NANOS1
-+ Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106071,MRAP
-+ Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106071,PRKCA
-+ Reg of Adenylate Cyclase-Activating GPCR Sgnlng Pway,GO:0106071,MRAP2
+#NAME?,GO:0106071,POMC
+#NAME?,GO:0106071,NANOS1
+#NAME?,GO:0106071,MRAP
+#NAME?,GO:0106071,PRKCA
+#NAME?,GO:0106071,MRAP2
 Positive Regulation of Adipose Tissue Development,GO:1904179,NCOA2
 Positive Regulation of Adipose Tissue Development,GO:1904179,NCOA1
 Positive Regulation of Adipose Tissue Development,GO:1904179,PPARG
@@ -87905,14 +87905,14 @@ Positive Regulation of Blood Vessel Endothelial Cell Migration,GO:0043536,ATP5F1
 Positive Regulation of Blood Vessel Endothelial Cell Migration,GO:0043536,HMOX1
 Positive Regulation of Blood Vessel Endothelial Cell Migration,GO:0043536,PLCG1
 Positive Regulation of Blood Vessel Endothelial Cell Migration,GO:0043536,STAT5A
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,FGFBP1
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,APELA
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,PPP1R16B
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,HMOX1
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,APLNR
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,JCAD
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,GATA2
-+ Reg of Blood Vessel Endothelial Cell Proliferation Inv in Sprouting Angiogenesis,GO:1903589,VEGFA
+#NAME?,GO:1903589,FGFBP1
+#NAME?,GO:1903589,APELA
+#NAME?,GO:1903589,PPP1R16B
+#NAME?,GO:1903589,HMOX1
+#NAME?,GO:1903589,APLNR
+#NAME?,GO:1903589,JCAD
+#NAME?,GO:1903589,GATA2
+#NAME?,GO:1903589,VEGFA
 Positive Regulation of Bone Mineralization,GO:0030501,KL
 Positive Regulation of Bone Mineralization,GO:0030501,ADGRV1
 Positive Regulation of Bone Mineralization,GO:0030501,VDR
@@ -94108,13 +94108,13 @@ Positive Regulation of Endopeptidase Activity,GO:0010950,STAT3
 Positive Regulation of Endopeptidase Activity,GO:0010950,SEMG2
 Positive Regulation of Endopeptidase Activity,GO:0010950,PRG2
 Positive Regulation of Endopeptidase Activity,GO:0010950,VSIR
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,BCL2L11
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,RNF183
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,DDIT3
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,PMAIP1
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,BOK
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,NCK1
-+ Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway,GO:1902237,NCK2
+#NAME?,GO:1902237,BCL2L11
+#NAME?,GO:1902237,RNF183
+#NAME?,GO:1902237,DDIT3
+#NAME?,GO:1902237,PMAIP1
+#NAME?,GO:1902237,BOK
+#NAME?,GO:1902237,NCK1
+#NAME?,GO:1902237,NCK2
 Positive Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900103,BBC3
 Positive Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900103,PTPN1
 Positive Regulation of Endoplasmic Reticulum Unfolded Protein Response,GO:1900103,BCL2L11
@@ -96565,19 +96565,19 @@ Positive Regulation of Insulin Secretion,GO:0032024,GPER1
 Positive Regulation of Insulin Secretion,GO:0032024,TUNAR
 Positive Regulation of Insulin Secretion,GO:0032024,STX4
 Positive Regulation of Insulin Secretion,GO:0032024,TRPM4
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,GPLD1
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,GCG
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,PLA2G6
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,BAIAP3
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,ANO1
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,PPP3CB
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,RFX6
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,TUNAR
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,STX4
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,C2CD2L
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,TRPM4
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,CFTR
-+ Reg of Insulin Secretion Inv in Cellular Resp to Glucose Stimulus,GO:0035774,HLA-DRB1
+#NAME?,GO:0035774,GPLD1
+#NAME?,GO:0035774,GCG
+#NAME?,GO:0035774,PLA2G6
+#NAME?,GO:0035774,BAIAP3
+#NAME?,GO:0035774,ANO1
+#NAME?,GO:0035774,PPP3CB
+#NAME?,GO:0035774,RFX6
+#NAME?,GO:0035774,TUNAR
+#NAME?,GO:0035774,STX4
+#NAME?,GO:0035774,C2CD2L
+#NAME?,GO:0035774,TRPM4
+#NAME?,GO:0035774,CFTR
+#NAME?,GO:0035774,HLA-DRB1
 Positive Regulation of Insulin-Like Growth Factor Receptor Signaling Pathway,GO:0043568,GHRHR
 Positive Regulation of Insulin-Like Growth Factor Receptor Signaling Pathway,GO:0043568,MYORG
 Positive Regulation of Insulin-Like Growth Factor Receptor Signaling Pathway,GO:0043568,GHRH
@@ -99923,21 +99923,21 @@ Positive Regulation of Mitochondrial Membrane Permeability,GO:0035794,SPG7
 Positive Regulation of Mitochondrial Membrane Permeability,GO:0035794,SIVA1
 Positive Regulation of Mitochondrial Membrane Permeability,GO:0035794,ZNF205
 Positive Regulation of Mitochondrial Membrane Permeability,GO:0035794,BOK
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,RHOT1
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,STPG1
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,RTL10
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,RHOT2
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,GDNF
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,BNIP3L
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,BNIP3
-+ Reg of Mt Membrane Permeability Inv in Apoptotic Process,GO:1902110,VDAC2
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,GSK3B
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,GSK3A
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,HIP1R
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,CHCHD10
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,SIVA1
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,ZNF205
-+ Reg of Mt Outer Membrane Permeabilization Inv in Apoptotic Sgnlng Pway,GO:1901030,BOK
+#NAME?,GO:1902110,RHOT1
+#NAME?,GO:1902110,STPG1
+#NAME?,GO:1902110,RTL10
+#NAME?,GO:1902110,RHOT2
+#NAME?,GO:1902110,GDNF
+#NAME?,GO:1902110,BNIP3L
+#NAME?,GO:1902110,BNIP3
+#NAME?,GO:1902110,VDAC2
+#NAME?,GO:1901030,GSK3B
+#NAME?,GO:1901030,GSK3A
+#NAME?,GO:1901030,HIP1R
+#NAME?,GO:1901030,CHCHD10
+#NAME?,GO:1901030,SIVA1
+#NAME?,GO:1901030,ZNF205
+#NAME?,GO:1901030,BOK
 Positive Regulation of Mitochondrial Translation,GO:0070131,TRUB2
 Positive Regulation of Mitochondrial Translation,GO:0070131,COA3
 Positive Regulation of Mitochondrial Translation,GO:0070131,DDX3X
@@ -100850,22 +100850,22 @@ Positive Regulation of Myeloid Cell Differentiation,GO:0045639,THPO
 Positive Regulation of Myeloid Cell Differentiation,GO:0045639,ANKRD54
 Positive Regulation of Myeloid Cell Differentiation,GO:0045639,GLUL
 Positive Regulation of Myeloid Cell Differentiation,GO:0045639,HOXA5
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,RTN4
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,CD74
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,WNT5A
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,LAPTM5
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,LILRB1
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,HLA-G
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,SIRT1
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,TICAM1
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,NR4A3
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,GPRC5B
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,MAVS
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,KIT
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,CAMK4
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,PLCG2
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,SEMA7A
-+ Reg of Myeloid Leukocyte Cytokine Production Inv in Imm Resp,GO:0061081,RIGI
+#NAME?,GO:0061081,RTN4
+#NAME?,GO:0061081,CD74
+#NAME?,GO:0061081,WNT5A
+#NAME?,GO:0061081,LAPTM5
+#NAME?,GO:0061081,LILRB1
+#NAME?,GO:0061081,HLA-G
+#NAME?,GO:0061081,SIRT1
+#NAME?,GO:0061081,TICAM1
+#NAME?,GO:0061081,NR4A3
+#NAME?,GO:0061081,GPRC5B
+#NAME?,GO:0061081,MAVS
+#NAME?,GO:0061081,KIT
+#NAME?,GO:0061081,CAMK4
+#NAME?,GO:0061081,PLCG2
+#NAME?,GO:0061081,SEMA7A
+#NAME?,GO:0061081,RIGI
 Positive Regulation of Myeloid Leukocyte Differentiation,GO:0002763,CCR1
 Positive Regulation of Myeloid Leukocyte Differentiation,GO:0002763,IL34
 Positive Regulation of Myeloid Leukocyte Differentiation,GO:0002763,TM4SF19
@@ -101015,11 +101015,11 @@ Positive Regulation of Natural Killer Cell Mediated Cytotoxicity,GO:0045954,IL12
 Positive Regulation of Natural Killer Cell Mediated Cytotoxicity,GO:0045954,KLRC2
 Positive Regulation of Natural Killer Cell Mediated Cytotoxicity,GO:0045954,SLAMF6
 Positive Regulation of Natural Killer Cell Mediated Cytotoxicity,GO:0045954,NECTIN2
-+ Reg of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target,GO:0002860,CRTAM
-+ Reg of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target,GO:0002860,IL12B
-+ Reg of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target,GO:0002860,PVR
-+ Reg of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target,GO:0002860,IL12A
-+ Reg of Natural Killer Cell Mediated Cytotoxicity Directed Against Tumor Cell Target,GO:0002860,NECTIN2
+#NAME?,GO:0002860,CRTAM
+#NAME?,GO:0002860,IL12B
+#NAME?,GO:0002860,PVR
+#NAME?,GO:0002860,IL12A
+#NAME?,GO:0002860,NECTIN2
 Positive Regulation of Natural Killer Cell Mediated Immune Response to Tumor Cell,GO:0002857,CRTAM
 Positive Regulation of Natural Killer Cell Mediated Immune Response to Tumor Cell,GO:0002857,IL12B
 Positive Regulation of Natural Killer Cell Mediated Immune Response to Tumor Cell,GO:0002857,PVR
@@ -101669,17 +101669,17 @@ Positive Regulation of Nuclear Division,GO:0051785,INS
 Positive Regulation of Nuclear Division,GO:0051785,NUP62
 Positive Regulation of Nuclear Division,GO:0051785,NUSAP1
 Positive Regulation of Nuclear Division,GO:0051785,DRD3
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,CNOT7
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,ZFP36
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,CNOT1
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,DHX36
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,ZFP36L1
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,PABPC1
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,CPEB3
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,TNRC6B
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,TOB1
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,TNRC6C
-"+ Reg of Nuclear-Transcribed mRNA Cat Proc, Deadenylation-Dep Decay",GO:1900153,ZFP36L2
+#NAME?,GO:1900153,CNOT7
+#NAME?,GO:1900153,ZFP36
+#NAME?,GO:1900153,CNOT1
+#NAME?,GO:1900153,DHX36
+#NAME?,GO:1900153,ZFP36L1
+#NAME?,GO:1900153,PABPC1
+#NAME?,GO:1900153,CPEB3
+#NAME?,GO:1900153,TNRC6B
+#NAME?,GO:1900153,TOB1
+#NAME?,GO:1900153,TNRC6C
+#NAME?,GO:1900153,ZFP36L2
 Positive Regulation of Nuclear-Transcribed mRNA poly(A) Tail Shortening,GO:0060213,EIF4ENIF1
 Positive Regulation of Nuclear-Transcribed mRNA poly(A) Tail Shortening,GO:0060213,CNOT7
 Positive Regulation of Nuclear-Transcribed mRNA poly(A) Tail Shortening,GO:0060213,BTG2
@@ -101738,11 +101738,11 @@ Positive Regulation of Nucleocytoplasmic Transport,GO:0046824,DMAP1
 Positive Regulation of Nucleocytoplasmic Transport,GO:0046824,EMD
 Positive Regulation of Nucleocytoplasmic Transport,GO:0046824,ECT2
 Positive Regulation of Nucleocytoplasmic Transport,GO:0046824,TRIM28
-"+ Reg of Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Sgnlng Pway",GO:0070426,NAGK
-"+ Reg of Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Sgnlng Pway",GO:0070426,SLC46A2
-"+ Reg of Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Sgnlng Pway",GO:0070426,SLC15A3
-"+ Reg of Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Sgnlng Pway",GO:0070426,SLC15A4
-"+ Reg of Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Sgnlng Pway",GO:0070426,HSPA1B
+#NAME?,GO:0070426,NAGK
+#NAME?,GO:0070426,SLC46A2
+#NAME?,GO:0070426,SLC15A3
+#NAME?,GO:0070426,SLC15A4
+#NAME?,GO:0070426,HSPA1B
 Positive Regulation of Odontoblast Differentiation,GO:1901331,LEF1
 Positive Regulation of Odontoblast Differentiation,GO:1901331,BMP4
 Positive Regulation of Odontoblast Differentiation,GO:1901331,RPTOR
@@ -108917,90 +108917,90 @@ Positive Regulation of Translational Initiation,GO:0045948,RPS6KB1
 Positive Regulation of Translational Initiation,GO:0045948,CCL5
 Positive Regulation of Translational Initiation,GO:0045948,HABP4
 Positive Regulation of Translational Initiation,GO:0045948,POLR2G
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GDF11
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFB1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ADISSP
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFB3
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFB2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,FOXD1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TSC22D1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,HIPK2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SOX11
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFBR1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ACVR2B
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP7
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFBR2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ACVR2A
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP6
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ELAPOR2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFBR3
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ARK2C
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP5
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP4
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GIPC1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,NUP93
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,PSG9
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,DAB2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ZEB2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,KCP
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,UBE2O
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMPR1A
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ACVRL1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMPR2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CITED1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CITED2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMP10
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,HFE
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ATOH8
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,PPP3CA
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SCUBE3
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CDH5
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,BMPER
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SH2B1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TBX20
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,AMH
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,KIAA0319
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ZNF423
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,HES5
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,RNF111
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SMAD3
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CREBBP
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SMAD2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SMAD4
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CDKN2B
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,INHBA
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GDF2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GDF5
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SLC2A10
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GDF7
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,LRG1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,FBXL15
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,GDF6
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SULF1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SDCBP
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TWSG1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,SNW1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CSNK2B
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ENG
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,NODAL
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CRB2
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,NOTCH1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,CDKN1C
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,HSP90AB1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TGFB1I1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,NGLY1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,NUMA1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,THBS1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,TTK
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ACVR1B
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,RBPJ
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,FLCN
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,STK11
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,ING3
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,EP300
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,MEN1
-+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway,GO:0090100,JAK2
+#NAME?,GO:0090100,GDF11
+#NAME?,GO:0090100,TGFB1
+#NAME?,GO:0090100,ADISSP
+#NAME?,GO:0090100,TGFB3
+#NAME?,GO:0090100,TGFB2
+#NAME?,GO:0090100,FOXD1
+#NAME?,GO:0090100,TSC22D1
+#NAME?,GO:0090100,HIPK2
+#NAME?,GO:0090100,SOX11
+#NAME?,GO:0090100,TGFBR1
+#NAME?,GO:0090100,ACVR2B
+#NAME?,GO:0090100,BMP7
+#NAME?,GO:0090100,TGFBR2
+#NAME?,GO:0090100,ACVR2A
+#NAME?,GO:0090100,BMP6
+#NAME?,GO:0090100,ELAPOR2
+#NAME?,GO:0090100,TGFBR3
+#NAME?,GO:0090100,ARK2C
+#NAME?,GO:0090100,BMP5
+#NAME?,GO:0090100,BMP4
+#NAME?,GO:0090100,GIPC1
+#NAME?,GO:0090100,NUP93
+#NAME?,GO:0090100,PSG9
+#NAME?,GO:0090100,BMP2
+#NAME?,GO:0090100,DAB2
+#NAME?,GO:0090100,ZEB2
+#NAME?,GO:0090100,KCP
+#NAME?,GO:0090100,UBE2O
+#NAME?,GO:0090100,BMPR1A
+#NAME?,GO:0090100,ACVRL1
+#NAME?,GO:0090100,BMPR2
+#NAME?,GO:0090100,CITED1
+#NAME?,GO:0090100,CITED2
+#NAME?,GO:0090100,BMP10
+#NAME?,GO:0090100,HFE
+#NAME?,GO:0090100,ATOH8
+#NAME?,GO:0090100,PPP3CA
+#NAME?,GO:0090100,SCUBE3
+#NAME?,GO:0090100,CDH5
+#NAME?,GO:0090100,BMPER
+#NAME?,GO:0090100,SH2B1
+#NAME?,GO:0090100,TBX20
+#NAME?,GO:0090100,AMH
+#NAME?,GO:0090100,KIAA0319
+#NAME?,GO:0090100,ZNF423
+#NAME?,GO:0090100,HES5
+#NAME?,GO:0090100,RNF111
+#NAME?,GO:0090100,SMAD3
+#NAME?,GO:0090100,CREBBP
+#NAME?,GO:0090100,SMAD2
+#NAME?,GO:0090100,SMAD4
+#NAME?,GO:0090100,CDKN2B
+#NAME?,GO:0090100,INHBA
+#NAME?,GO:0090100,GDF2
+#NAME?,GO:0090100,GDF5
+#NAME?,GO:0090100,SLC2A10
+#NAME?,GO:0090100,GDF7
+#NAME?,GO:0090100,LRG1
+#NAME?,GO:0090100,FBXL15
+#NAME?,GO:0090100,GDF6
+#NAME?,GO:0090100,SULF1
+#NAME?,GO:0090100,SDCBP
+#NAME?,GO:0090100,TWSG1
+#NAME?,GO:0090100,SNW1
+#NAME?,GO:0090100,CSNK2B
+#NAME?,GO:0090100,ENG
+#NAME?,GO:0090100,NODAL
+#NAME?,GO:0090100,CRB2
+#NAME?,GO:0090100,NOTCH1
+#NAME?,GO:0090100,CDKN1C
+#NAME?,GO:0090100,HSP90AB1
+#NAME?,GO:0090100,TGFB1I1
+#NAME?,GO:0090100,NGLY1
+#NAME?,GO:0090100,NUMA1
+#NAME?,GO:0090100,THBS1
+#NAME?,GO:0090100,TTK
+#NAME?,GO:0090100,ACVR1B
+#NAME?,GO:0090100,RBPJ
+#NAME?,GO:0090100,FLCN
+#NAME?,GO:0090100,STK11
+#NAME?,GO:0090100,ING3
+#NAME?,GO:0090100,EP300
+#NAME?,GO:0090100,MEN1
+#NAME?,GO:0090100,JAK2
 Positive Regulation of Transmembrane Transport,GO:0034764,C2CD5
 Positive Regulation of Transmembrane Transport,GO:0034764,SLC38A1
 Positive Regulation of Transmembrane Transport,GO:0034764,ARL6IP1

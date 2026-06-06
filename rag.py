@@ -40,7 +40,7 @@ logging.basicConfig(
 def log_interaction(question, answer):
     logging.info(f"User: {question}")
     logging.info(f"Bot: {answer}")
-    logging.info("-----------------------------------------------------------------------------------------------------------------") 
+    logging.info("-" * 30) 
 
 # Query Function
 def query_database(question: str):
@@ -75,21 +75,21 @@ def query_database(question: str):
     return response.strip()
 
 # CLI
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--build", action="store_true", help="Build the ChromaDB database")
-    args = parser.parse_args()
+# if __name__ == "__main__":
+#     parser = argparse.ArgumentParser()
+#     parser.add_argument("--build", action="store_true", help="Build the ChromaDB database")
+#     args = parser.parse_args()
 
-    if args.build:
-        populate_database()
-    else:
-        print("RAG-Reasoning Chatbot")
-        print("Type 'exit' to quit.")
-        while True:
-            q = input("You: ")
-            if q.lower() == "exit":
-                break
-            answer = query_database(q)
-            print("Bot:", answer)
-            log_interaction(q, answer)
+#     if args.build:
+#         populate_database()
+#     else:
+#         print("RAG-Reasoning Chatbot")
+#         print("Type 'exit' to quit.")
+#         while True:
+#             q = input("You: ")
+#             if q.lower() == "exit":
+#                 break
+#             answer = query_database(q)
+#             print("Bot:", answer)
+#             log_interaction(q, answer)
 

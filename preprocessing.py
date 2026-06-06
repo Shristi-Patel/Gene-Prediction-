@@ -9,7 +9,7 @@ mf = pd.read_csv("GO_Molecular_Function_2025.csv")
 relationships = pd.read_csv("go_relationships.csv")
 terms = pd.read_csv("go_terms.csv")
 
-# Normalize column names (force lowercase)
+# Normalize column names
 for df in [gene_go, bp, cc, mf, relationships, terms]:
     df.columns = [c.lower() for c in df.columns]
 
@@ -19,7 +19,7 @@ go_data = pd.concat([bp, cc, mf], ignore_index=True)
 # Build lookup dictionaries
 term_lookup = dict(zip(terms.get("go_id", []), terms.get("name", [])))
 
-# relationships.csv usually has columns like "source","target"
+# relationships.csv - "source","target"
 relationship_lookup = {}
 if "source" in relationships.columns and "target" in relationships.columns:
     relationship_lookup = relationships.groupby("source")["target"].apply(list).to_dict()

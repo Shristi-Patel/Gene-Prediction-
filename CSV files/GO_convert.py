@@ -11,7 +11,7 @@ with open(input_file, "r", encoding="utf-8") as infile, open(output_file, "w", n
     for line in infile:
         parts = line.strip().split("\t")
         if len(parts) >= 3:
-            # Extract GO ID from the set name (e.g., "Process (GO:XXXXXXX)")
+            # Extract GO ID from the set name 
             geneset_raw = parts[0]
             match = re.search(r"\(GO:\d+\)", geneset_raw)
             go_id = match.group(0).strip("()") if match else "UNKNOWN"
@@ -35,7 +35,7 @@ with open(input_file, "r", encoding="utf-8") as infile, open(output_file, "w", n
     for line in infile:
         parts = line.strip().split("\t")
         if len(parts) >= 3:
-            # Extract GO ID from the set name (e.g., "Process (GO:XXXXXXX)")
+            # Extract GO ID from the set name
             geneset_raw = parts[0]
             match = re.search(r"\(GO:\d+\)", geneset_raw)
             go_id = match.group(0).strip("()") if match else "UNKNOWN"
@@ -59,7 +59,7 @@ with open(input_file, "r", encoding="utf-8") as infile, open(output_file, "w", n
     for line in infile:
         parts = line.strip().split("\t")
         if len(parts) >= 3:
-            # Extract GO ID from the set name (e.g., "Process (GO:XXXXXXX)")
+            # Extract GO ID from the set name
             geneset_raw = parts[0]
             match = re.search(r"\(GO:\d+\)", geneset_raw)
             go_id = match.group(0).strip("()") if match else "UNKNOWN"
