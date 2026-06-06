@@ -2,8 +2,8 @@ streamlit
 langchain
 openai
 pandas
-numpy
-scikit-learn
+
+torchvision
 
 langchain-community>=0.3.0
 langchain-text-splitters>=0.3.0
